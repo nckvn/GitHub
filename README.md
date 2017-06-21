@@ -6,7 +6,7 @@ Nếu bạn đang sử dụng hệ điều hành Ubuntu/Debian thì có thể s�
 
 Hoặc lệnh sau để cài trên CentOS/Fedora/RHEL:
 
-$ yum install git
+`$ yum install git`
 
 **Cài Git vào Mac OS**
 
