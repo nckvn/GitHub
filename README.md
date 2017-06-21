@@ -15,3 +15,5 @@ Hoặc lệnh sau để cài trên **CentOS/Fedora/RHEL**:
 **Cài Git vào Windows**
 
 [http://git-scm.com/download/win](Download)
+
+**Hướng Dẫn Sử Dụng**
