@@ -4,7 +4,7 @@ Nếu bạn đang sử dụng hệ điều hành Ubuntu/Debian thì có thể s�
 
 `$ sudo apt-get install git`
 
-Hoặc lệnh sau để cài trên CentOS/Fedora/RHEL:
+Hoặc lệnh sau để cài trên **CentOS/Fedora/RHEL**:
 
 `$ yum install git`
 
